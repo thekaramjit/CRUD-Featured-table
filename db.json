@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "name": "karamjit",
+      "fName": "father name",
+      "profile": "React.js",
+      "age": "23",
+      "id": 1
+    },
+    {
+      "name": "Jasmeet",
+      "fName": "father name bhj",
+      "profile": "React.js",
+      "age": "24",
+      "id": 2
+    },
+    {
+      "name": "vbjvhj",
+      "fName": "vjjvjh",
+      "profile": "React.js",
+      "age": "19",
+      "id": 3
+    }
+  ]
+}

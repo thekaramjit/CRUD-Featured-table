@@ -1,0 +1,9 @@
+.noDataFound {
+    font-size: 62px;
+    text-align: center;
+}
+select {
+    width: 100%;
+    height: 50px;
+    border-radius: 9px;
+}
